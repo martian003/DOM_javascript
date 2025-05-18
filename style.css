@@ -1,0 +1,137 @@
+/*h1{
+    color: aliceblue;
+}
+
+p {
+    color: chartreuse;
+}
+
+button{
+    color: bisque;
+    background-color: green;
+}
+
+#box {
+    background-color: aqua;
+
+}
+h1,h2,h3{
+    background-color: blanchedalmond;
+    text-align: center;
+    text-decoration: line-through;
+    text-decoration: blue underline;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    text-align: center;
+    line-height:  normal;
+    text-transform: capitalize;
+}
+a {
+    text-decoration: none;
+}
+/* units in css
+absolute
+pixels(px)
+96px=1inch=2.54cm*/
+/*
+#para {
+    height: 100px;
+    width: 200px;
+    background-color: aliceblue;
+    border-style: dotted;
+}
+div{
+    height: 100px;
+    width: 200px;
+    background-color: aliceblue;
+    
+    border-width: 2px;
+    border-style: solid;
+    border-color: brown;     or     
+    border: 2px solid brown;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    margin-top: 50px;
+}
+
+h1{
+    height: 100px;
+    width: 200px;
+    background-color: aliceblue;
+    border-style: dashed;
+    text-align: center;
+
+}
+ */
+ /*
+ * {
+    padding: 0;
+    margin: 0;
+    color: rgb(190, 72, 72);
+ }
+ #navbar{
+    height: 60px;
+    background-color: #0f1111;
+    
+ }
+ button{
+    background-color: #f08804;
+ }
+ #logo {
+    color: #f08804;
+    font-size: 25px;
+ }
+ a{
+    margin-right: 200px;
+    text-decoration: none;
+
+    there is alpha value in rgba
+    apart from display: none there is visiblity parameter where block reserve but in display no reserve place is there
+ } 
+ div{
+    display: inline;
+ }
+ button{
+    display: inline-block;
+ }*/
+ /*
+ * {
+    padding: 0;
+    margin: 0;
+    
+ }
+ #navbar{
+    height: 60px;
+    background-color: #0f1111;
+    
+ }
+ button{
+    background-color: #f08804;
+ }
+ #logo {
+    color: #f08804;
+    font-size: 25px;
+ }
+ a{
+    margin-right: 200px;
+    text-decoration: none;
+ }
+ .contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+ }
+ #content{
+    height: 600px;
+ }
+ footer{
+    background-color: #0f1111;
+    color: white;
+ }
+ */
